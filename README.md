@@ -1,5 +1,7 @@
 # 🎮 Game Junior QA Engineer Portfolio
-This repository contains checklists and bug reports
+This repository contains bug reports and testing documentation created during the QA process for holiday events in Avataria (Tortuga).
+
+The repository includes checklists, content validation documentation, and bug reports covering gameplay mechanics, event content, UI elements, and reward systems.
 
 🐞[Bug-reports](https://github.com/ken1ax/QA/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Bug%20report%22)
 
