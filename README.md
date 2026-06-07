@@ -1,4 +1,7 @@
 # 🎮 Game Junior QA Engineer Portfolio
+
+🧾[QA Foundations Certificate](https://stepik.org/cert/3276684)
+
 This repository contains bug reports and testing documentation created during the QA process for holiday events in Avataria (Tortuga).
 
 The repository includes checklists, content validation documentation, and bug reports covering gameplay mechanics, event content, UI elements, and reward systems.
