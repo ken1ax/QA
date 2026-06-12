@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi! My name is Nikita, I’m 22 years old.
+Hi! My name is Nikita!
 
 I started QA testing in the second half of 2023 and joined my first team in early 2024. My first project was the game *Avataria (Tortuga)*, where I gained my first experience in game testing.
 
