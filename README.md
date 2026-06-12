@@ -1,4 +1,4 @@
-# 🎮 Game Junior QA Engineer Portfolio
+# 🎮 Game QA Engineer Portfolio
 
 ## 👋 About Me
 
