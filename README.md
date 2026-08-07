@@ -28,3 +28,14 @@ The repository includes test plans, test cases, checklists, content validation d
 
 📋[Checklist 2 — Content of the game event (Fair26)](https://docs.google.com/spreadsheets/d/10yq4QkScpx2FJLTsEXvJqDqui_odkTZQplZiGfX_rXg/edit?usp=sharing)
 
+## 🪲 Test Assignments
+
+[Matryoshka Games — QA Test Assignment](https://disk.yandex.ru/i/qI_IQSWdcNpZ1g)
+
+*What's inside:* Comparative analysis of APK builds (Android SDK, architectures arm64-v8a vs armeabi-v7a). Functional black-box, ad-hoc testing of the game build, identifying critical defects in game economy, UI, and game logic, along with compiling 26 detailed bug reports complete with logs and video proofs
+
+## 🧩 Product & Game Design Assignments
+
+[Playrix — Game Mechanics Comparative Analysis: Township vs. Royal Match](https://disk.yandex.ru/i/UMxHqN8RygcHiQ)
+
+*What's inside:* A comprehensive product and UX/UI competitive analysis of in-game events ("Mayor on Vacation" in *Township* vs. "Quest" in *Royal Match*). Includes progression curve analysis, source of progress evaluation, reward value systems, monetization touchpoints, and localization/text quality audits
