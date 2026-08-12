@@ -1,4 +1,4 @@
-# 🎮 Game QA Engineer Portfolio
+# 🎮 QA Engineer Portfolio
 
 ## 👋 About Me
 
