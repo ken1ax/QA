@@ -8,10 +8,6 @@ I started QA testing in the second half of 2023 and joined my first team in earl
 
 I have been working with test documentation, bug reporting, and testing of holiday events and other game updates.
 
-## 🧾 Certification
-
-[QA Foundations Certificate](https://stepik.org/cert/3276684)
-
 ## 📌 Project Overview
 
 This repository contains bug-reports and testing documentation created during the QA process for holiday events in Avataria (Tortuga).
