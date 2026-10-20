@@ -24,7 +24,7 @@ The repository includes test plans, test cases, checklists, content validation d
 
 📋[Checklist 2 — Content of the game event (Fair26)](https://docs.google.com/spreadsheets/d/10yq4QkScpx2FJLTsEXvJqDqui_odkTZQplZiGfX_rXg/edit?usp=sharing)
 
-## 🪲 Test Assignments
+## ⚙️ QA Assignments
 
 [Matryoshka Games — QA Test Assignment](https://disk.yandex.ru/i/qI_IQSWdcNpZ1g)
 
